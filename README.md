@@ -1,4 +1,4 @@
-# ASCIS – Arduino-Based Sensor-Controlled Irrigation System
+# Arduino-Based Sensor-Controlled Irrigation System (ASCIS)
 
 An Arduino Uno–based irrigation controller for small and medium-sized farms. Sensor readings (soil moisture, air temperature, humidity) decide when a relay switches a water pump on or off, so crops are watered only when needed.
 
